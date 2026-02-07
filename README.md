@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102A43&height=220&section=header&text=Cientista%20de%20Dados&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=Python%20|%20SQL%20|%20Machine%20Learning%20|%20Análise%20de%2
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=102A43&height=220&section=header&text=Cientista%20de%20Dados&fontSize=40&fontColor=ffffff&fontAlignY=32&desc=Python%20|%20SQL%20|%20Machine%20Learning%20|%20Análise%20de%20Dados&descAlignY=65"/>
+
 
 
 
