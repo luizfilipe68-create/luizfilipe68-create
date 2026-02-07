@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=180&section=header&text=Data%20Science%20|%20Analytics%20|%20Machine%20Learning&fontSize=30&fontColor=ffffff&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=190&section=header&text=Luiz%20Filipe%20—%20Cientista%20de%20Dados&desc=Python%20|%20SQL%20|%20Machine%20Learning%20|%20Análise%20de%20Dados&descAlignY=60&fontSize=34&fontColor=ffffff"/>
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luiz+Filipe;Data+Scientist;Seja+Bem+Vindo!+:%29)
 
