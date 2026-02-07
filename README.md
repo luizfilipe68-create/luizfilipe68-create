@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=160&section=header&text=Luiz%20Filipe%20|%20Data%20Scientist&fontSize=36&fontColor=ffffff&fontAlignY=35"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=32&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Luiz+Filipe;Tenho+27+anos;Moro+em+Santa+Luzia+/MG;Data+Scientist;Seja+Bem+Vindo!+:%29)
 
